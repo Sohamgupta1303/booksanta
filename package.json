@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo": "^41.0.0",
+    "firebase": "^8.4.1",
+    "react-native": "^0.64.0",
+    "react-native-gesture-handler": "^1.10.3"
+  }
+}
